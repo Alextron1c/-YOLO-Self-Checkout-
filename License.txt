@@ -1,0 +1,4 @@
+Copyright (c) Alejandro Naranjo Ardila 2024.
+
+All rights reserved.
+This repository is for personal use only and may not be used, copied, modified, or distributed in any way without express permission from the author.
